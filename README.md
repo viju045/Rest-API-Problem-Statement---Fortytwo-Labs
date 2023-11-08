@@ -5,7 +5,7 @@
   * repository package :- StudentRepo, Here I used 'findByName" method for finding record by using name.   
   * service package :- StudentService, Here I used two method "saveStudent" is for inserting record into the table and "getStudentByName" for getting record.
   * controller package :- StudentController, Here I used Two HTTP method "PostMapping" for inserting purpose and "GetMapping" for getting purpos
---> In this application I used "@OneToMany" for mapping purpose (Each student can be associate to multiple subjects).
+* In this application I used "@OneToMany" for mapping purpose (Each student can be associate to multiple subjects).
 --> For "POST" method I used (http://localhost:8080/StudentDetails/savedata) this API and provide JSON format raw body like
     {
   "name": "student1",
