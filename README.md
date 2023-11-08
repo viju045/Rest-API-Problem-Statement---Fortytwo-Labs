@@ -24,4 +24,5 @@
   ]
 }
 --> For "GET" method I used (http://localhost:8080/StudentDetails/getData?studentName=student1)) this API and getting a inserted record like
-  * Execution steps :- 1. After running the application check whether the table are created or not in the database. 2. Then open postman and select "POST" method send raw JOSN formated data. 3. and select "GET" method and get the inserted record from the table.  
+  * Execution steps :- 1. After running the application check whether the table are created or not in the database. 2. Then open postman and select "POST" method send raw JOSN formated data. 3. and select "GET" method and get the inserted record from the table.
+# For the result purpose I uploaded some images in the repo please check it.
